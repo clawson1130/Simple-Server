@@ -1,2 +1,20 @@
-# Simple-Server
-This is a simple nodejs server. This server listens on port and uses web socket connection to exchange json values. This project also connects to a database in another class and uses dynamic mysql queries to change and update the database tables.
+
+
+# SimpleServer
+
+
+
+## Usage
+
+
+
+## Developing
+
+
+
+### Tools
+
+Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
+ ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
+
+Nodeclipse is free open-source project that grows with your contributions.
